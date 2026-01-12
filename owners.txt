@@ -1,0 +1,16 @@
+burger_king rest1@123 0
+mc_donald rest2@123 1
+domino_s rest3@123 2
+pizza_hut rest4@123 3
+starbucks rest5@123 4
+punjabi_anghiti rest6@123 5
+chinese_wok rest7@123 6
+call_me_chow rest8@123 7
+olio_s_italian_house rest9@123 8
+biryani_s_blues rest10@123 9
+kfc_sector_62 rest11@123 10
+roastry_coffe_house rest12@123 11
+momo_s_bar rest13@123 12
+dial_a_cake rest14@123 13
+the_hazzle_nut_factory rest15@123 14
+baskin_robbin_s rest16@123 15
